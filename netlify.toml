@@ -1,0 +1,4 @@
+[[redirects]]
+  from = "/api/ali-search"
+  to = "http://ckali.dahi.e.yu.ac.cn/check/v2/search"
+  status = 200
